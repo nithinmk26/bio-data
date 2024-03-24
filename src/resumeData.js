@@ -42,7 +42,12 @@ let resumeData = {
     "rashi":"vrishchika ",
     "nakshatra":"Anuradha",
     "birthPlace":"Birur",
-    "timeofbirth":"7:20 PM"
+    "timeofbirth":"7:20 PM",
+    "imageUrls": [
+      "/images/portfolio/girl.jpg",
+      "/images/portfolio/coffee.jpg",
+      "/images/portfolio/console.jpg"
+    ]
   }
   
   export default resumeData
