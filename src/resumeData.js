@@ -44,8 +44,8 @@ let resumeData = {
     "birthPlace":"Birur",
     "timeofbirth":"7:20 PM",
     "imageUrls": [
-      "/images/portfolio/girl.jpg",
-      "/images/portfolio/coffee.jpg",
+      "/images/portfolio/public/images/profilepic.JPG",
+      "/images/portfolio/DNP07643.jpg",
       "/images/portfolio/console.jpg"
     ]
   }
